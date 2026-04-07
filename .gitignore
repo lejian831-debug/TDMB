@@ -1,0 +1,9 @@
+# Secrets / credentials
+/resource/api.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
