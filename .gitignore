@@ -1,5 +1,6 @@
 # Secrets / credentials
 /resource/api.json
+/resource/postgres.json
 
 # Python
 __pycache__/
